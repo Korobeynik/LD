@@ -67,8 +67,8 @@
 #header.fixed a {
     color: #fff;
 }
-#header.fixed a.logo{
-	 /* color: #000; */
+div#banner {
+    padding-top: 120px;
 }
  .banner-text {
  padding-top: 30%;
